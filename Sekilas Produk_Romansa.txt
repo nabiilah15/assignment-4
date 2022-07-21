@@ -1,0 +1,3 @@
+Nama Produk : Dorry (Don't Worry)
+Kegunaan : Memantau keadaan gas dan keadaan rumah meskipun kita jauh dari rumah
+Fitur Utama : Mendeteksi kebocoran gas dan adanya percikan api, monitoring secara langsung dan memberi notifikasi kepada pengguna
